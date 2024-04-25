@@ -1,1 +1,1 @@
-# Weather-analysis
+# This data involves collecting and interpreting meteorological information to understand patterns and trends.it typically includes studying variables like; humidity,wind spped, temperature and atmospheric pressure.This project entails using statiscal methods for analysis using python and pandas(jupyter notebook.)
